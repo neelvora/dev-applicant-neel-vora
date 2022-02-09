@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/neelvora/dev-applicant-neel-vora/static/css/main.84edd445.css",
-    "main.js": "/neelvora/dev-applicant-neel-vora/static/js/main.1b6387cb.js",
-    "static/media/hand.png": "/neelvora/dev-applicant-neel-vora/static/media/hand.b1427ba6b2ca9f342852.png",
-    "static/media/Background.jpg": "/neelvora/dev-applicant-neel-vora/static/media/Background.9af000989a7663face4b.jpg",
-    "static/media/Cardo.svg": "/neelvora/dev-applicant-neel-vora/static/media/Cardo.02ddf23dfbbe8687d4d957cf52f212d7.svg",
-    "index.html": "/neelvora/dev-applicant-neel-vora/index.html",
-    "main.84edd445.css.map": "/neelvora/dev-applicant-neel-vora/static/css/main.84edd445.css.map",
-    "main.1b6387cb.js.map": "/neelvora/dev-applicant-neel-vora/static/js/main.1b6387cb.js.map"
+    "main.css": "/dev-applicant-neel-vora/static/css/main.73aa19ef.css",
+    "main.js": "/dev-applicant-neel-vora/static/js/main.7c8f5f54.js",
+    "static/media/hand.png": "/dev-applicant-neel-vora/static/media/hand.b1427ba6b2ca9f342852.png",
+    "static/media/Background.jpg": "/dev-applicant-neel-vora/static/media/Background.9af000989a7663face4b.jpg",
+    "static/media/Cardo.svg": "/dev-applicant-neel-vora/static/media/Cardo.02ddf23dfbbe8687d4d957cf52f212d7.svg",
+    "index.html": "/dev-applicant-neel-vora/index.html",
+    "main.73aa19ef.css.map": "/dev-applicant-neel-vora/static/css/main.73aa19ef.css.map",
+    "main.7c8f5f54.js.map": "/dev-applicant-neel-vora/static/js/main.7c8f5f54.js.map"
   },
   "entrypoints": [
-    "static/css/main.84edd445.css",
-    "static/js/main.1b6387cb.js"
+    "static/css/main.73aa19ef.css",
+    "static/js/main.7c8f5f54.js"
   ]
 }
